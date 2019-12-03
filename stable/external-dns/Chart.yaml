@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v2
 name: external-dns
 version: 2.11.0
 appVersion: 0.5.17

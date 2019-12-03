@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v2
 description: CoreOS etcd-operator Helm chart for Kubernetes
 name: etcd-operator
 version: 0.10.1

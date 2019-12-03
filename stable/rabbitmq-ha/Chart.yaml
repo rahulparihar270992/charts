@@ -1,5 +1,5 @@
 name: rabbitmq-ha
-apiVersion: v1
+apiVersion: v2
 appVersion: 3.8.0
 version: 1.36.4
 description: Highly available RabbitMQ cluster, the open source message broker
